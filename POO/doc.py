@@ -17,3 +17,4 @@ class estudiante(persona):
 
 y = estudiante("Jeremi", "Cañizares")
 y.imprimir()
+
